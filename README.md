@@ -4,4 +4,4 @@
 
 ## Join Colaberry
 
-Check out the [Showcase](https://colaberry.com/) to join.
+Check out the [Colaberry Site](https://colaberry.com/) to join.
