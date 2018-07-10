@@ -4,4 +4,4 @@
 
 ## Join Colaberry
 
-Check out the [Colaberry Site](https://colaberry.com/) to join.
+Check out the [Colaberry Site](http://colaberry.com/) to join.
