@@ -10,7 +10,7 @@ Before you begin check if your computer supports the system requirements for [Vi
 
 Clone the github repository of the colaberry private repository ccpp using the following command.
 
-```sh
+```
 git clone <ccpp repository>
 ```
 
