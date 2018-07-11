@@ -12,7 +12,6 @@ Clone the github repository of the colaberry private repository ccpp using the f
 
 ```sh
 git clone <ccpp repository>
-cd ccpp
 ```
 
 Double click on the CBOnline.sln to open it in `Visual Studio`
