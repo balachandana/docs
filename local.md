@@ -23,4 +23,4 @@ You will need both Web.config from solution directory and Views folder.
 
 > The name 'ViewBag' does not exist in the current context
 
-This error occurs for missing web.config from Views folder.
+This error occurs because of missing web.config from Views folder.
