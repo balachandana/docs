@@ -31,20 +31,20 @@ Right Click `ThirdPartyServices` > `Add` > `Reference`
 
 ![local2](_media/local2.png)
 
-
+***
 Add `libraries` from Common References
 
 ![local3](_media/local3.png)
 
-
+***
 Right Click `CBOnline` > `Properties` > `Web`
 
 ![local4](_media/local4.png)
 
-
+***
 Make sure you set Url as `https://localhost:44301` > Create `Virtual Directory` 
 
 ![local5](_media/local5.png)
 
-
+***
 Run `IIS Express`
