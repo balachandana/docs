@@ -36,7 +36,7 @@ Add `libraries` from Common References
 
 ![local3](_media/local3.png)
 
-***
+*** 
 Right Click `CBOnline` > `Properties` > `Web`
 
 ![local4](_media/local4.png)
