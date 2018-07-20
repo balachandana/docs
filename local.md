@@ -18,3 +18,9 @@ Double click on the CBOnline.sln to open it in `Visual Studio`
 
 ### Download some Common Reference Libraries and Web.config from the production server.
 :exclamation: Make sure you change Database connection string in Web.config to local database.
+
+You will need both Web.config from solution directory and Views folder.
+
+> "The name 'ViewBag' does not exist in the current context"
+
+This error occurs for missing web.config from Views folder.
