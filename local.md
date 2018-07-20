@@ -23,14 +23,24 @@ You will need both Web.config from solution directory and Views folder.
 
 > The name 'ViewBag' does not exist in the current context
 
-This error occurs because of missing web.config from Views folder.
+This error occurs because of missing `web.config` from Views folder.
+
+Right Click `ThirdPartyServices` > `Add` > `Reference`
 
 ![local1](_media/local1.png)
 
 ![local2](_media/local2.png)
 
+Add `libraries` from Common References
+
 ![local3](_media/local3.png)
+
+Right Click `CBOnline` > `Properties` > `Web`
 
 ![local4](_media/local4.png)
 
+Make sure you set Url as `https://localhost:44301` > Create `Virtual Directory` 
+
 ![local5](_media/local5.png)
+
+Run `IIS Express`
