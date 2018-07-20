@@ -25,4 +25,12 @@ You will need both Web.config from solution directory and Views folder.
 
 This error occurs because of missing web.config from Views folder.
 
-![logo](_media/local1.png)
+![local1](_media/local1.png)
+
+![local2](_media/local2.png)
+
+![local3](_media/local3.png)
+
+![local4](_media/local4.png)
+
+![local5](_media/local5.png)
