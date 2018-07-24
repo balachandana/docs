@@ -3,5 +3,5 @@
   * [Local Machine](local.md)
   
 * Discussions/Forums
-  * [Add a new discussion](adddiscussion.md)
-  * [Search a discussion](searchdiscussion.md)
+  * [Add New Discussion](adddiscussion.md)
+  * [Search Discussion](searchdiscussion.md)
