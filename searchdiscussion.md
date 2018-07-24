@@ -2,13 +2,13 @@
 
 > Follow the following steps to search for a discussion.
 
-## Access Search Discussion
+### Access Search Discussion
 
 Login to the application
 
 Visit `Discussions` in the left Navigation Bar. Click on `Search`
 
-## Search
+### Search
 
 Type into the textbox using the keywords.
 
