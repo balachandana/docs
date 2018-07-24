@@ -22,6 +22,6 @@ Click `Start A New Discussion`
 
 ![discussiondoc3](_media/discussiondoc3.png)
 
-### Click `Start New Discussion`
+### Click `Start New Discussion` to add discussion.
 
 
