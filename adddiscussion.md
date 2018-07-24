@@ -1,4 +1,4 @@
-## Add a new discussion
+## Adding New Discussion
 
 > Following steps will help you on how to add a new discussion.
 
