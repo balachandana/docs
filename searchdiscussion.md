@@ -1,4 +1,4 @@
-## Search a Discussion
+## Search Discussion
 
 > Follow the following steps to search for a discussion.
 
