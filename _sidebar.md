@@ -5,3 +5,4 @@
 * Discussions/Forums
   * [Add New Discussion](adddiscussion.md)
   * [Search Discussion](searchdiscussion.md)
+  * [Example](adddiscussion.md)
